@@ -1,1 +1,2 @@
-# pokemon-stats
+# Pokemon Stats
+This repository contains the code I used to create a heatmap showing average stats by Pokemon type. I have also attached a database file containing a 'data' table with Pokemon names, types and stats. I had to make some judgement calls with which forms to include but I hope this can be useful. For more project details see <a href = 'https://www.sameerrayner.com/portfolio/pokemon-stats-by-type'>my portfolio</a>.
